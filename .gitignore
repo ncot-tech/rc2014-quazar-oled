@@ -1,3 +1,12 @@
+# ASM
+build/
+*.lis
+zcc_opt.def
+*.hex
+*.sym
+*.z80
+
+# ---> C
 # Prerequisites
 *.d
 
@@ -50,3 +59,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
